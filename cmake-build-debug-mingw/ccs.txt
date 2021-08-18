@@ -1,0 +1,703 @@
+Nombre: May Mueller
+Enfermedades: 
+Insuficiencia Renal
+Lupus
+Melanoma
+Neurofibromatosis
+Varicocele
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Declan Obrien
+Enfermedades: 
+Diabetes
+Varicocele
+Porcentajes: 40%
+
+Nombre: Shaine Irwin
+Enfermedades: 
+Diabetes
+Melanoma
+Neurofibromatosis
+Varicocele
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Zena Powers
+Enfermedades: 
+Lupus
+Microcefalia 
+Neurofibromatosis
+Porcentajes: 70%
+
+Nombre: Ila Waters
+Enfermedades: 
+Galactorrea
+Lupus
+Microcefalia 
+Neurofibromatosis
+Varicocele
+Porcentajes: 70%
+
+Nombre: Abel Compton
+Enfermedades: 
+Insuficiencia Renal
+Microcefalia 
+Porcentajes: 40%
+
+Nombre: Elliott Henson
+Enfermedades: 
+Cancer
+Diabetes
+Fiebre Amarilla
+Insuficiencia Renal
+Virus usutu
+Porcentajes: 70%
+
+
+Nombre: Ivor Pruitt
+Enfermedades: 
+Cancer
+Neurofibromatosis
+Porcentajes: 40%
+
+Nombre: Xyla Hammond
+Enfermedades: 
+Insuficiencia Renal
+Neurofibromatosis
+Varicocele
+Porcentajes: 70%
+
+Nombre: Grady Cotton
+Enfermedades: 
+Microcefalia 
+Varicocele
+Porcentajes: 40%
+
+Nombre: Beck Potts
+Enfermedades: 
+Cancer
+Fiebre Amarilla
+Melanoma
+Neurofibromatosis
+Pielonefritis
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Adam Prince
+Enfermedades: 
+Insuficiencia Renal
+Lupus
+Porcentajes: 40%
+
+Nombre: Timon Hooper
+Enfermedades: 
+Lupus
+Melanoma
+Porcentajes: 40%
+
+Nombre: Vera Franks
+Enfermedades: 
+Melanoma
+Neurofibromatosis
+Varicocele
+Porcentajes: 70%
+
+Nombre: Eve Peck
+Enfermedades: 
+Insuficiencia Renal
+Lupus
+Melanoma
+Microcefalia 
+Porcentajes: 70%
+
+Nombre: Aristotle Marshall
+Enfermedades: 
+Dermatitis
+Melanoma
+Porcentajes: 40%
+
+Nombre: Rae Glass
+Enfermedades: 
+Diabetes
+Melanoma
+Meningitis
+Sindrome de Angelman
+Varicocele
+Virus zika
+Porcentajes: 70%
+
+Nombre: Glenna Davenport
+Enfermedades: 
+Escoliosis
+Fiebre Amarilla
+Microcefalia 
+Varicocele
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Sandra Mckee
+Enfermedades: 
+Fiebre Amarilla
+Lupus
+Melanoma
+Microcefalia 
+Neurofibromatosis
+Varicocele
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Jessamine Roy
+Enfermedades: 
+Cancer
+Melanoma
+Porcentajes: 40%
+
+Nombre: Vanna Riggs
+Enfermedades: 
+Melanoma
+Neurofibromatosis
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Maggie May
+Enfermedades: 
+Hantavirus
+Melanoma
+Microcefalia 
+Porcentajes: 70%
+
+
+Nombre: Kristen Vinson
+Enfermedades: 
+Fiebre Amarilla
+Lupus
+Microcefalia 
+Varicocele
+Virus usutu
+Porcentajes: 70%
+
+
+Nombre: Gray Bean
+Enfermedades: 
+Lupus
+Meningitis
+Neurofibromatosis
+Porcentajes: 70%
+
+Nombre: Gloria Wagner
+Enfermedades: 
+Galactorrea
+Neurofibromatosis
+Porcentajes: 40%
+
+
+Nombre: Lavinia William
+Enfermedades: 
+Lupus
+Melanoma
+Varicocele
+Porcentajes: 70%
+
+Nombre: Demetrius Rodriguez
+Enfermedades: 
+Insuficiencia Renal
+Melanoma
+Porcentajes: 40%
+
+Nombre: Ramona Conner
+Enfermedades: 
+Escoliosis
+Melanoma
+Neurofibromatosis
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Hayes Moses
+Enfermedades: 
+Gastritis
+Insuficiencia Renal
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Trevor Cain
+Enfermedades: 
+Insuficiencia Renal
+Melanoma
+Meningitis
+Microcefalia 
+Porcentajes: 70%
+
+Nombre: Vivien Fleming
+Enfermedades: 
+Galactorrea
+Microcefalia 
+Varicocele
+Porcentajes: 70%
+
+Nombre: Lawrence Lester
+Enfermedades: 
+Dermatitis
+Diabetes
+Oncocercosis
+Varicocele
+Virus zika
+Porcentajes: 70%
+
+Nombre: Lee Dodson
+Enfermedades: 
+Dermatitis
+Diabetes
+Insuficiencia Renal
+Neurofibromatosis
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Jacqueline Whitaker
+Enfermedades: 
+Lupus
+Neurofibromatosis
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Dara Compton
+Enfermedades: 
+Dermatitis
+Hantavirus
+Insuficiencia Renal
+Osteonecrosis
+Varicocele
+Porcentajes: 70%
+
+
+Nombre: Rhea Norris
+Enfermedades: 
+Lupus
+Tracoma
+Varicocele
+Virus usutu
+Virus zika
+Porcentajes: 70%
+
+Nombre: Cameran Larson
+Enfermedades: 
+Dermatitis
+Diabetes
+Melanoma
+Teniasis
+Porcentajes: 70%
+
+Nombre: Hector Guerra
+Enfermedades: 
+Cancer
+Galactorrea
+Melanoma
+Neurofibromatosis
+Varicocele
+Porcentajes: 70%
+
+Nombre: Ora Wise
+Enfermedades: 
+Dermatitis
+Gastritis
+Melanoma
+Varicocele
+Porcentajes: 70%
+
+Nombre: Jelani Wade
+Enfermedades: 
+Dermatitis
+Gastritis
+Microcefalia 
+Neurofibromatosis
+Varicocele
+Porcentajes: 70%
+
+Nombre: Odysseus Cooke
+Enfermedades: 
+Insuficiencia Renal
+Lupus
+Melanoma
+Neurofibromatosis
+Porcentajes: 70%
+
+Nombre: Macaulay Macias
+Enfermedades: 
+Melanoma
+Virus usutu
+Porcentajes: 40%
+
+Nombre: Hall Burke
+Enfermedades: 
+Dermatitis
+Diabetes
+Galactorrea
+Insuficiencia Renal
+Lupus
+Microcefalia 
+Neurofibromatosis
+Varicocele
+Porcentajes: 70%
+
+Nombre: Bree Middleton
+Enfermedades: 
+Insuficiencia Renal
+Meningitis
+Microcefalia 
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Justine Fox
+Enfermedades: 
+Melanoma
+Tracoma
+Porcentajes: 40%
+
+Nombre: Melanie Herman
+Enfermedades: 
+Cancer
+Diabetes
+Fiebre Amarilla
+Microcefalia 
+Sindrome de Angelman
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Chantale Conrad
+Enfermedades: 
+Escoliosis
+Lupus
+Porcentajes: 40%
+
+
+Nombre: Jared Hawkins
+Enfermedades: 
+Diabetes
+Melanoma
+Neurofibromatosis
+Porcentajes: 70%
+
+Nombre: Iona Pittman
+Enfermedades: 
+Diabetes
+Gastritis
+Neurofibromatosis
+Porcentajes: 70%
+
+Nombre: Jayme Moore
+Enfermedades: 
+Lupus
+Neurofibromatosis
+Varicocele
+Porcentajes: 70%
+
+Nombre: Rajah Stanton
+Enfermedades: 
+Gastritis
+Varicocele
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Thor Thomas
+Enfermedades: 
+Dermatitis
+Lupus
+Microcefalia 
+Porcentajes: 70%
+
+
+Nombre: Nell Montgomery
+Enfermedades: 
+Gastritis
+Lupus
+Neurofibromatosis
+Porcentajes: 70%
+
+Nombre: Wanda Valencia
+Enfermedades: 
+Diabetes
+Lupus
+Porcentajes: 40%
+
+Nombre: Anastasia Russell
+Enfermedades: 
+Fiebre Amarilla
+Melanoma
+Microcefalia 
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Charles Dudley
+Enfermedades: 
+Dermatitis
+Diabetes
+Galactorrea
+Lupus
+Melanoma
+Tracoma
+Porcentajes: 70%
+
+
+Nombre: Shelly Hobbs
+Enfermedades: 
+Dermatitis
+Melanoma
+Porcentajes: 40%
+
+
+Nombre: Channing Bolton
+Enfermedades: 
+Galactorrea
+Lupus
+Melanoma
+Porcentajes: 70%
+
+Nombre: Eliana Mcdowell
+Enfermedades: 
+Diabetes
+Melanoma
+Microcefalia 
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Keely Hayes
+Enfermedades: 
+Diabetes
+Gastritis
+Lupus
+Melanoma
+Microcefalia 
+Neurofibromatosis
+Porcentajes: 70%
+
+
+Nombre: Mia Stewart
+Enfermedades: 
+Fiebre Amarilla
+Insuficiencia Renal
+Lupus
+Melanoma
+Neurofibromatosis
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Benjamin Patrick
+Enfermedades: 
+Melanoma
+Neurofibromatosis
+Porcentajes: 40%
+
+Nombre: Chaim Holcomb
+Enfermedades: 
+Diabetes
+Neurofibromatosis
+Porcentajes: 40%
+
+Nombre: Pandora Houston
+Enfermedades: 
+Melanoma
+Microcefalia 
+Neurofibromatosis
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Megan Harrison
+Enfermedades: 
+Fiebre Amarilla
+Galactorrea
+Insuficiencia Renal
+Lupus
+Melanoma
+Varicocele
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Randall Guerra
+Enfermedades: 
+Microcefalia 
+Virus usutu
+Porcentajes: 40%
+
+Nombre: Anthony Cortez
+Enfermedades: 
+Escoliosis
+Galactorrea
+Porcentajes: 40%
+
+Nombre: Abraham Galloway
+Enfermedades: 
+Microcefalia 
+Virus usutu
+Porcentajes: 40%
+
+Nombre: Addison Hurley
+Enfermedades: 
+Dermatitis
+Diabetes
+Fiebre Amarilla
+Melanoma
+Meningitis
+Microcefalia 
+Varicocele
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Zachery Neal
+Enfermedades: 
+Insuficiencia Renal
+Microcefalia 
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Sybill Brewer
+Enfermedades: 
+Diabetes
+Fiebre Amarilla
+Microcefalia 
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Natalie Robertson
+Enfermedades: 
+Insuficiencia Renal
+Lupus
+Porcentajes: 40%
+
+Nombre: Leah Barry
+Enfermedades: 
+Fiebre Amarilla
+Virus usutu
+Porcentajes: 40%
+
+Nombre: Quentin Joyce
+Enfermedades: 
+Insuficiencia Renal
+Porcentajes: 7697525%
+
+Nombre: Conan Gutierrez
+Enfermedades: 
+Fiebre Amarilla
+Lupus
+Microcefalia 
+Neurofibromatosis
+Varicocele
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Chelsea Brady
+Enfermedades: 
+Insuficiencia Renal
+Neurofibromatosis
+Porcentajes: 40%
+
+Nombre: Adena Howell
+Enfermedades: 
+Cancer
+Diabetes
+Fiebre Amarilla
+Insuficiencia Renal
+Lupus
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Hop Frye
+Enfermedades: 
+Dermatitis
+Diabetes
+Galactorrea
+Gastritis
+Microcefalia 
+Neurofibromatosis
+Porcentajes: 70%
+
+Nombre: Oliver Chang
+Enfermedades: 
+Melanoma
+Neurofibromatosis
+Porcentajes: 40%
+
+Nombre: Judith Downs
+Enfermedades: 
+Gastritis
+Insuficiencia Renal
+Virus usutu
+Porcentajes: 70%
+
+Nombre: McKenzie Waters
+Enfermedades: 
+Diabetes
+Neurofibromatosis
+Varicocele
+Porcentajes: 70%
+
+Nombre: Fitzgerald Kent
+Enfermedades: 
+Galactorrea
+Microcefalia 
+Neurofibromatosis
+Tracoma
+Varicocele
+Porcentajes: 70%
+
+Nombre: Jerome Melton
+Enfermedades: 
+Ictus Insomnio
+Lupus
+Varicocele
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Cole Gibbs
+Enfermedades: 
+Fiebre Amarilla
+Microcefalia 
+Varicocele
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Channing Knowles
+Enfermedades: 
+Galactorrea
+Neurofibromatosis
+Varicocele
+Porcentajes: 70%
+
+Nombre: Dustin Velez
+Enfermedades: 
+Escoliosis
+Microcefalia 
+Virus usutu
+Porcentajes: 70%
+
+Nombre: Shelly Mcfarland
+Enfermedades: 
+Diabetes
+Insuficiencia Renal
+Lupus
+Porcentajes: 70%
+
+Nombre: Hillary Kirk
+Enfermedades: 
+Diabetes
+Melanoma
+Microcefalia 
+Varicocele
+Porcentajes: 70%
+
+Nombre: Aphrodite Snider
+Enfermedades: 
+Melanoma
+Meningitis
+Microcefalia 
+Varicocele
+Porcentajes: 70%
+
+Nombre: Omar Spence
+Enfermedades: 
+Diabetes
+Melanoma
+Meningitis
+Varicocele
+Porcentajes: 70%
+
+
