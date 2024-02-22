@@ -1,3 +1,3 @@
-# Proyecto_Lista_Pacientes
- Manejo de archivos JSON CSV.
- Programa que maneja lista de pacientes con cadenas de ADN, Nombres, Apellidos, ID y lista de enfermedades con Cadenas de ADN y nombre, el programa crea una nueva lista con los pacientes y las enfermedades que son más susceptibles a tener basado en su cadena de ADN
+# Project_List_Patients_Diseases
+ JSON CSV. files management
+ Program that manages list of patients with DNA chains, First Names, Last Names, ID and list of diseases with DNA Chains and name, the program creates a new list with the patients and the diseases they are most susceptible to having based on their chain of DNA
